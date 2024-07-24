@@ -12,6 +12,15 @@
 ## Project Overview
 This project is the official website for Brains Media Solutions, a company dedicated to empowering businesses with exceptional digital marketing solutions. The website showcases the company's mission, services, and contact information.
 
+## Demo & Live
+
+
+https://github.com/user-attachments/assets/4bc1bec0-8152-456d-a418-20f0e0f1cb41
+
+
+
+Check out the live here[http://brainsmediasolutions.42web.io/]
+
 ## Features
 - Responsive design
 - Google Fonts integration
